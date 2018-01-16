@@ -23,6 +23,7 @@ config/drupal/proxy-settings-disabled.php
 .LSOverride
 Icon
 ._*
+*.orig
 
 # Files that might appear on external disk
 .Spotlight-V100
