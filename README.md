@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. This is just to add some emergency changes to the Git stash.
 
 ## Purpose
 Purpose is to Learn GIT with the help of Git Compelete.
